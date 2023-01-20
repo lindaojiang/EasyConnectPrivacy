@@ -1,8 +1,8 @@
-# EasyConnect for iOS 隐私政策
+# EasyConnect for Scanner 隐私政策
 
  
 
-欢迎您使用”EasyConnect for iOS”，请仔细阋读我们的《隐私政策》。我们的产品包括我们所提供的软件产品和这些软件产品的相关服务
+欢迎您使用”EasyConnect for Scanner”，请仔细阋读我们的《隐私政策》。我们的产品包括我们所提供的软件产品和这些软件产品的相关服务
 
  
 
